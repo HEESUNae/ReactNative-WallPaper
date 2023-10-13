@@ -6,10 +6,13 @@
 
 ### 작업내용
 
-- 이미지 리스트 만들기
+- 이미지 리스트 UI 만들기
 - Navigation을 이용하여 상세페이지 이동
+- 페이지 이동시 애니메이션 효과
+- Redux를 이용한 좋아요 상태관리
 
 ### 기술스택
 
 React Native(expo), JavaScript,  
-@react-navigation/native, @react-navigation/bottom-tabs, @react-navigation/native-stack
+@react-navigation/native, @react-navigation/bottom-tabs, @react-navigation/native-stack,
+Redux, Redux-logger
